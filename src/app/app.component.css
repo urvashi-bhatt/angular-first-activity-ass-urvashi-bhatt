@@ -1,0 +1,9 @@
+.container h1 {
+  color: indigo;
+  text-align: center;
+  margin: 50px;
+}
+.container h2 {
+  color: orangered;
+  margin-bottom: 30px;
+}

@@ -1,3 +1,9 @@
+This is the Angular First Activity Assignment.
+
+Here is the Output of Activity:
+
+![alt text](https://github.com/urvashi-bhatt/angular-activity-1-urvashi-bhatt/blob/main/first-app-output.PNG?raw=true)
+
 # AngularFirstActivityAssUrvashiBhatt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
